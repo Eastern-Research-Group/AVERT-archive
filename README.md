@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repo is a forked archive of the [EPA repo](https://github.com/USEPA/AVERT) before it was re-organized to include other AVERT related files beyond the [“AVERT Web Edition”](https://www.epa.gov/avert/avert-web-edition) (e.g., the “AVERT Excel Edition” main module, statistical module, etc.).
+
 # EPA’s Avoided Emissions and Generation Tool (AVERT)
 
 The AVERT app is composed of two apps working together: a [client app](/client), and [server app](/server).
